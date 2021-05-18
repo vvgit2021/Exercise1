@@ -1,2 +1,2 @@
 iris <-  iris
-plot(iris,sepal.length,sepal.width)
+plot(iris,Sepal.Length,Sepal.Width)
